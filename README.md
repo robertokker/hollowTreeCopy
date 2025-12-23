@@ -11,7 +11,6 @@ The **Hollow Tree Generator** is a Python utility designed to replicate large di
   1. **Scan**: Analyze the source and see a detailed report (File counts, estimated size).
   2. **Copy**: Execute the operation with a precise progress bar.
 - **Settings Persistence**: Your rules are automatically saved to `hollow_tree_settings.json`.
-- **Modern UI**: Clean dark theme for comfortable usage.
 
 ## Safety & Security 🛡️
 This tools allows for legal copying of huge datasets, so safety is paramount:
