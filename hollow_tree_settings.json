@@ -1,0 +1,11 @@
+{
+    "full_copy_rules": [
+        ".*\\.json$",
+        ".*\\.ocio$",
+        "^metadata$"
+    ],
+    "exclude_rules": [
+        ".*\\.tmp$",
+        ".*\\.bak$"
+    ]
+}
