@@ -2,6 +2,7 @@
     "full_copy_rules": [
         ".*\\.json$",
         ".*\\.ocio$",
+        ".*\\.yml$",
         "^metadata$"
     ],
     "exclude_rules": [
