@@ -1,0 +1,1 @@
+a standalone Python script with a Tkinter GUI to scan directory structures and mirror them to a new location. Files will be "hollowed" (0-byte dummy files) unless specified as full copies (e.g., .json, metadata files) with regx.
