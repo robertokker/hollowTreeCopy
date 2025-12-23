@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hollow Tree Generator
 
 ## Overview
@@ -47,6 +46,4 @@ python hollow_tree.py
 4. **Copy**:
    - Click **2. Copy Files**.
    - Monitor the progress bar until completion.
-=======
-a standalone Python script with a Tkinter GUI to scan directory structures and mirror them to a new location. Files will be "hollowed" (0-byte dummy files) unless specified as full copies (e.g., .json, metadata files) with regx.
->>>>>>> faad5e6b51919d2341e99c47cc65749ecb245498
+
